@@ -1,37 +1,38 @@
-# Shopify-Clone [![Template Project](https://img.shields.io/badge/Clone-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwind-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Shopify Clone [![Template Project](https://img.shields.io/badge/Clone-Project-red)](http://www.gnu.org/licenses/agpl-3.0) [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwind-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
-This is basically a clone of [Shopify](https://shopify.com/) made purely in HTML5 and tailwind css a utility first css Framework
+This is basically a clone of [Shopify](https://www.shopify.com/in) made purely in HTML5 and tailwind css a utility first css Framework
 Hope you like my project !!
 
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
   - Tailwind css - A Utility First Framework of CSS
-  - CSS - Cascading Spread Sheet
+  - Font Awesome - Font Awesome is a font and icon toolkit based on CSS and Less.
+  - Mamba UI - Mamba UI is a free, open-source collection of beautiful UI elements based on Tailwind CSS that make it easy for anyone to build a website in minutes.
 
 ## 🚩 Demo
 
-https://bucolic-bombolone-80793c.netlify.app/
+
+
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Srinivasan-Akash/Shopify-Clone.git
+  git clone https://github.com/Zuber8040/Ineuron-Shopify-Clone.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Shopify-Clone
+  cd Ineuron-Shopify-Clone 
 ```
 ## ✍️ Author and 📞 Contact
-- [Akash Srinivasan](https://www.github.com/octokatherine)
-    - [Coder Community](https://web.codercommunity.io/user/62d568cb998d86c8883a2766?tab=posts)
-    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100083429257499)
-    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akash_prashanthi/)
-    - [![youtube](https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAv1QdzDgV6MjA60CRtfkIg)
-    - [Find Coder](https://www.findcoder.io/u/akashsrinivasan)
+- [Zuber Ustad](https://github.com/Zuber8040)
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuber-u-a37673183/)
+    - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Zuber763/)
+    - [Find Coder](https://www.findcoder.io/u/zuberustad)
 ## 📝 Features
 
 - Royalty Free Images used
@@ -39,13 +40,18 @@ Go to the project directory
 - Beautifull UI/UX Design
 - Clone Website
 - Hosted on Netlify and set up in production
-- Fully Responsive in all screens
 
-## 🤔 What i have learnt By working on this project
-1. Got a good feel of tailwind utility first framework and mobile first design
+[Live](https://zuber8040.github.io/Ineuron-Rode-Clone/)
 
-## 😌 Honest Time to finish the project
+## What i have learnt By working on this project
+1. Got a hands on experience in useing tailwind components and build in fast pace.
+2. I have learn about various components
+3. I have used tailBlocks also 
 
-I had took about 5hrs 43min.
+## Honest Time to finish the project
+
+I had took about 10hrs.
 ## 👀 Feedback
-If you have any feedback, please reach out to us at qa.sixsigma@gmail.com
+If you have any feedback, please reach out to us at zuberustad456@gmail.com
+
+
