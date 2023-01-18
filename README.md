@@ -11,7 +11,11 @@ Hope you like my project !!
 
 ## 🚩 Demo
 
+Deployed link  &rarr; https://zuber8040.github.io/Ineuron-Shopify-Clone/ 
+<br>
+<br>
 
+https://user-images.githubusercontent.com/72431298/213088517-aac6a729-5e75-4766-bac5-20d8de06b6fc.mp4
 
 
 
